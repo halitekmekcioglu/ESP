@@ -12,6 +12,9 @@ static const uint8_t D9   = 3;
 static const uint8_t D10  = 1;
 */
 
+bu bir denemedir
+
+
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
