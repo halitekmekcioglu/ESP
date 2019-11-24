@@ -18,8 +18,8 @@ bu bir denemedir
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "ept_mobil";
-const char* password = "welcometoept";
+const char* ssid = "ssid";
+const char* password = "pwd";
 const char* mqtt_server = "iot.eclipse.org";
 
 WiFiClient espClient;
